@@ -2,7 +2,7 @@ var scrollBtn = document.getElementById("scrollBtn");
 if (scrollBtn) {
   scrollBtn.addEventListener("click", function() {
     window.scroll({
-      top: 500, 
+      top: 1500, 
       left: 0, 
       behavior: 'smooth'
     });
